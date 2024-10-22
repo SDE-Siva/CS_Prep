@@ -8,4 +8,4 @@
 
 ## 3. [Sliding window & Two Pointers](swtp.md)
 
-## 3. [Patterns](pattern.md)
+## 4. [Patterns](pattern.md)
